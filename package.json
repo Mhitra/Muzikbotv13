@@ -1,0 +1,25 @@
+{
+  "name": "v13altyapigelismis",
+  "version": "1.0.0",
+  "description": "thegears",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "thegears",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/rest": "^0.3.0",
+    "discord-player": "^5.2.2",
+    "discord.js": "^13.6.0",
+    "ffmpeg-static": "^4.4.1",
+    "fs": "^0.0.1-security",
+    "i": "^0.3.7",
+    "ms2time": "^1.0.3",
+    "npm": "^8.10.0"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
